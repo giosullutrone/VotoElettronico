@@ -1,6 +1,8 @@
 # Voto Elettronico -BALLOTTAGGIO-  Gruppo 7
 
-Progetto voto elettronico esame Algoritmi e protocolli per la sicurezza 2022
+Progetto voto elettronico esame Algoritmi e protocolli per la sicurezza 2022.
+
+Maggiori dettagli sulla nostra soluzione nel documento "WP.pdf".
 
 ### Membri gruppo
 * g.mandragora@studenti.unisa.it    0622701875
