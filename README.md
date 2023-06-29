@@ -26,7 +26,7 @@ Maggiori dettagli sulla nostra soluzione nel documento "WP.pdf".
 * VoteCredentialFinder.java : Questa classe permette all' utente di trovare la sua credenziale all' interno del file di credenziali controllando le firme dopo aver decifrato con la sua chiave segreta;
 * Client/ServerVote.java : Queste due classi simulano l'inserimento del voto nella blockchain, dato che non è stato possibile implementare la prova zeroknowledge non viene fatto alcun controllo su quello che viene inviato dal client, dunque semplicemente il voto e le credenziali vengono scritte sulla blockchain;
 * VoteCounting.java : Questa classe si occupa di eseguire lo spoglio dei voti resituendo le ultime iterazioni per ogni tripla con il voto associato;
-* VoteCleaning.java : Questa classe si occupa di rimuovere eventuali credenziali che hanno avuto problemi e hanno ricorso a justice prendendole dal file rToClean;
+* VoteCleaning.java : Questa classe si occupa di rimuovere eventuali credenziali che hanno avuto problemi e hanno ricorso a justice prendendole dal file ToClean;
 
 ## Come eseguire
 
