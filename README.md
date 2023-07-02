@@ -12,7 +12,7 @@ Maggiori dettagli sulla nostra soluzione nel documento "WP.pdf".
 
 ## Funzioni implementate
 
-* minFilesGenerator.java : Questa classe inizializza la votazione creando tutti i file necessari per inizializzare, quali:
+* minFilesGenerator.java : Questa classe inizializza la votazione creando tutti i file necessari, quali:
   * blockchain.txt : file che simula la blockchain;
   * m***Kp.txt : file che contiene la coppia chiave pubblica e segreta del ministero specificato dal nome;
   * abilitati.txt : file che contiene abilitati alla votazione, per testing contiene solo un codice fiscale di prova;
